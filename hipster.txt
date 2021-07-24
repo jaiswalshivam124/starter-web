@@ -2,16 +2,8 @@ I'm baby polaroid sartorial pickled cray iceland snackwave succulents bitters bi
  thundercats small batch. IPhone wayfarers tilde pok pok tumeric beard whatever 
  readymade snackwave.
  
-<<<<<<< HEAD
- gtyfy
- 
- New content
-=======
- gtyfyrf
+gtyfyrf
 
-<<<<<<< HEAD
-New Content
->>>>>>> newbranch
-=======
-New Content in newbranch
->>>>>>> newbranch
+New Content in master
+
+
