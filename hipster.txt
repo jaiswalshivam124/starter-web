@@ -9,5 +9,9 @@ I'm baby polaroid sartorial pickled cray iceland snackwave succulents bitters bi
 =======
  gtyfyrf
 
+<<<<<<< HEAD
 New Content
+>>>>>>> newbranch
+=======
+New Content in newbranch
 >>>>>>> newbranch
